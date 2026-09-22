@@ -1,10 +1,10 @@
 public class Problem4 {
-    double minDistBrute(double [][] p){
+    public double minDistBrute(double [][] p){
         // your code here
         return 0.0;
     }
 
-    double minDistSmart(double [][] p){
+    public double minDistSmart(double [][] p){
         // your code here
         return 0.0;
     }

@@ -18,6 +18,7 @@
 
 #### References
 1. Chapter 5.6, The Algorithm Design Manual, 3rd Edition, 2020 - Steven H. Skiena
+2. Chapter 3.4, Algorithms Illuminated Part1, 2017 - Tim Roughgarden
 
 ### Report - Largest Subrange
 + Describe here your solutions in human language using Markdown syntax and possibly latex pieces like this one $T(n)=\Theta(n\log{n})$.
