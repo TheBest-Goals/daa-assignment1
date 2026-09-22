@@ -1,10 +1,10 @@
 public class Problem3 {
-    int maxSumBrute(int [] A){
+    public int maxSumBrute(int [] A){
         // your code here
         return 0;
     }
 
-    int maxSumSmart(int [] A){
+    public int maxSumSmart(int [] A){
         // your code here
         return 0;
     }
